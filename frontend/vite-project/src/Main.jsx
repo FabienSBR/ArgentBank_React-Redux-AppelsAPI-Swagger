@@ -15,8 +15,8 @@ import "./styles/pages/sign-in.css";
 import "./styles/pages/user.css";
 import "./styles/components/features.css";
 import "./styles/components/footer.css";
-import "./styles/components/header.css";
-import "./styles/components/hero.css";
+import "./styles/components/Header.css";
+import "./styles/components/Hero.css";
 import "./styles/components/user-content.css";
 import "./styles/components/sign-in-content.css";
 
