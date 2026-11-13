@@ -5,6 +5,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/ArgentBank_React-Redux-AppelsAPI-Swagger/',
   assetsInclude: ['**/*.webp'], // permet à Vite d’inclure les fichiers .webp dans le bundle
   plugins: [react()],
 })
