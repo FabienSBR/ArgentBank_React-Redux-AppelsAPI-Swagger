@@ -12,7 +12,7 @@ import ProtectedRoute from './Auth/ProtectedRoute'; // composant qui protège la
 
 const App = () => {
   return (
-    <BrowserRouter> 
+    <BrowserRouter basename="/ArgentBank_React-Redux-AppelsAPI-Swagger"> 
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/sign-in' element={<SignIn />} /> 
